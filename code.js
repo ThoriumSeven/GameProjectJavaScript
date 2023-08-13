@@ -25,3 +25,5 @@ function myFunction ()
     myStr += myNum
     console.log(myStr);
 }
+
+// Sorry adding new comment got lazy...
